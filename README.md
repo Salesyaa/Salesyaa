@@ -10,6 +10,6 @@
 
 ###
 
-<img align="right" height="150" src="tenor.gif" />
+<img align="center" height="100%" src="tenor.gif" />
 
 ###
