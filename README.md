@@ -10,6 +10,6 @@
 
 ###
 
-<img align="center" width="90%" src="gojo.gif" />
+<img text-align="center" width="90%" src="gojo.gif" />
 
 ###
