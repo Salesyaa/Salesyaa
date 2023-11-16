@@ -10,7 +10,6 @@
 
 ###
 
-<img align="center" height="100%" width="100%" src="tenor.gif" />
-<img align="center" height="100%" width="100%" src="gojo.gif" />
+<img align="center" width="90%" src="gojo.gif" />
 
 ###
