@@ -1,4 +1,4 @@
-<h2 align="left">My name is Salesyaa and I'm a Junior Software Engineering, from Politeknik Negeri Lhokseumawe</h2>
+<h2 align="left">My name is Salesyaa and I'm an Informatics Engineering, from Politeknik Negeri Lhokseumawe</h2>
 
 ###
 
